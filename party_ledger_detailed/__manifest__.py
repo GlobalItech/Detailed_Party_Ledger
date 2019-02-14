@@ -1,6 +1,6 @@
 {
     'name': 'Party Ledger Detailed',
-    'author': 'Itech reosurces',
+    'author': 'Itech Resources',
     'company': 'ItechResources',
     'depends': [
                 'base',
