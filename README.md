@@ -1,1 +1,1 @@
-# Detailed_Party_Ledger
+# Detailed_Partner_Ledger
