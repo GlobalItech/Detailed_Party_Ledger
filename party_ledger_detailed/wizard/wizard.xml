@@ -33,7 +33,7 @@
     </record>
      
      <record id="action_account_report_pld" model="ir.actions.act_window">
-        <field name="name">Party Ledger Detailed</field>
+        <field name="name">Partner Ledger Detailed</field>
         <field name="res_model">party.ledger.detailed</field>
         <field name="view_type">form</field>
         <field name="view_mode">form</field>
@@ -41,6 +41,6 @@
         <field name="target">new</field>
     </record>
     
-    <menuitem id="menu_account_report_pld" name="Party Ledger Detailed" action="action_account_report_pld" parent="account.menu_finance_legal_statement" sequence="9" /> 
+    <menuitem id="menu_account_report_pld" name="Partner Ledger Detailed" action="action_account_report_pld" parent="account.menu_finance_legal_statement" sequence="9" /> 
     </data>
 </odoo>
