@@ -1,7 +1,7 @@
 {
-    'name': 'Party Ledger Detailed',
+    'name': 'Partner Ledger Detailed',
     'author': 'Itech Resources',
-    'company': 'ItechResources',
+    'company': 'Itech Resources',
     'depends': [
                 'base',
                 'sale',
